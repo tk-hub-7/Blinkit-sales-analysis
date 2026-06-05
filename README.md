@@ -1,3 +1,5 @@
+<img width="320" height="180" alt="blinkit image" src="https://github.com/user-attachments/assets/5c8e8a03-6bcb-4d14-865a-b8d55ffbc6a6" />
+
 **Developed an end-to-end data analytics project for Blinkit, focusing on sales performance, outlet analysis, customer preferences, and product insights using Power BI, SQL, and Python.
 **
 
